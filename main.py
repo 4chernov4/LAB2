@@ -8,4 +8,4 @@ class3 = (class3 + 1) // 2
 
 total_desks = class1 + class2 + class3
 
-print(f"Всего нужно закупить {total_desks} парты для всех учеников.")
+print(total_desks)
